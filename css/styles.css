@@ -31,6 +31,7 @@ body{
   background-color: #ff4c68;
   color: #fff;
   font-family: "Montserrat";
+  padding-bottom: 4rem;
 }
 
 .container-fluid{
@@ -55,7 +56,9 @@ nav-link{
 /* -- Title -- */
 
 .img-dog{
-  width: 60%;
+  width: 24%;
+  position: absolute;
+  right: 13rem;
 }
 
 
@@ -63,9 +66,12 @@ nav-link{
 
 #features{
   padding: 7% 15%;
+  background-color: #fff;
+  position: relative;
+  z-index: 1;
 }
 .feature-box{
-  padding: 5%;
+  padding: 5%;  
 }
 
 
@@ -154,6 +160,7 @@ nav-link{
 }
 @media screen and (max-width: 990px){
   .img-dog{
+    position: static;
     margin-top: 50px;
   }
 }
