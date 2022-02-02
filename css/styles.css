@@ -56,7 +56,7 @@ nav-link{
 /* -- Title -- */
 
 .img-dog{
-  width: 24%;
+  width: 18%;
   position: absolute;
   right: 13rem;
 }
@@ -68,7 +68,6 @@ nav-link{
   padding: 7% 15%;
   background-color: #fff;
   position: relative;
-  z-index: 1;
 }
 .feature-box{
   padding: 5%;  
