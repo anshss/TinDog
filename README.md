@@ -1,4 +1,4 @@
 # TinDog
-A bootstrap project
+A landing page built using Bootstrap which includes different Bootstrap components like Cards, Carousels etc.
 
-Access it at https://anshss.github.io/TinDog/
+[Deployed Site](https://anshss.github.io/TinDog/)
